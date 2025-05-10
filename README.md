@@ -6,7 +6,7 @@ Movies
 1. Superman
    - thrilling
 2. Avengers
-   -action
+   - action
 3. The entitled
-   -funny
-   -comedy
+   - funny
+   - comedy
